@@ -4,6 +4,7 @@ html{
 
 body{
   background-color: #595959;
+  /* had to darken to pass wave*/
   font-size: 18px;
   margin: 0;
   padding: 0;
